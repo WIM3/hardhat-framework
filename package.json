@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/advancedblockchain/hardhat-framework.git"
+    "url": "git+https://github.com/WIM3/hardhat-framework.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/advancedblockchain/hardhat-framework.git/issues"
+    "url": "https://github.com/WIM3/hardhat-framework.git/issues"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers@^0.3.0-beta.10",
